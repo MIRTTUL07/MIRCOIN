@@ -1,0 +1,15 @@
+{"level":"warn","message":"Contract address not set. Some features may not work.","service":"ddns-backend","timestamp":"2025-10-29T09:31:36.307Z"}
+{"level":"info","message":"dDNS Backend server running on port 3001","service":"ddns-backend","timestamp":"2025-10-29T09:31:36.319Z"}
+{"level":"info","message":"Health check: http://localhost:3001/health","service":"ddns-backend","timestamp":"2025-10-29T09:31:36.320Z"}
+{"level":"info","message":"API docs: http://localhost:3001/api","service":"ddns-backend","timestamp":"2025-10-29T09:31:36.320Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"ddns-backend","timestamp":"2025-10-29T09:32:11.175Z"}
+{"level":"warn","message":"Contract address not set. Some features may not work.","service":"ddns-backend","timestamp":"2025-10-29T09:44:34.880Z"}
+{"level":"info","message":"dDNS Backend server running on port 3001","service":"ddns-backend","timestamp":"2025-10-29T09:44:34.889Z"}
+{"level":"info","message":"Health check: http://localhost:3001/health","service":"ddns-backend","timestamp":"2025-10-29T09:44:34.890Z"}
+{"level":"info","message":"API docs: http://localhost:3001/api","service":"ddns-backend","timestamp":"2025-10-29T09:44:34.890Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"ddns-backend","timestamp":"2025-10-29T09:46:53.446Z"}
+{"level":"warn","message":"Contract address not set. Some features may not work.","service":"ddns-backend","timestamp":"2025-10-29T09:53:55.886Z"}
+{"level":"info","message":"dDNS Backend server running on port 3001","service":"ddns-backend","timestamp":"2025-10-29T09:53:55.897Z"}
+{"level":"info","message":"Health check: http://localhost:3001/health","service":"ddns-backend","timestamp":"2025-10-29T09:53:55.897Z"}
+{"level":"info","message":"API docs: http://localhost:3001/api","service":"ddns-backend","timestamp":"2025-10-29T09:53:55.898Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"ddns-backend","timestamp":"2025-10-29T09:54:54.798Z"}
